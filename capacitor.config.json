@@ -1,0 +1,7 @@
+{
+  "appId": "com.komaki.x1rangepro",
+  "appName": "Komaki X1 Range Pro",
+  "webDir": "www",
+  "backgroundColor": "#000000",
+  "android": { "allowMixedContent": false }
+}
